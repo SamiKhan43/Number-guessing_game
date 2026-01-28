@@ -1,7 +1,7 @@
 # Python Quiz Game 🐍
 
 ## Links
-- Repository: https://github.com/SamiKhan43/Number-guessing_game
+- Project URL: https://github.com/SamiKhan43/Number-guessing_game
 
 
 A fun and interactive command-line quiz game to test your Python programming knowledge!
